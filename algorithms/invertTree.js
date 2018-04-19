@@ -18,6 +18,5 @@ var invertTree = function(root) {
     return root;  
 };
 /*
-1、交换根节点的左右子树。
-2、对左右子树分别执行递归反转 。
+    递归的将每个节点的左右子树交换
 */
