@@ -106,6 +106,100 @@
 |463| 岛屿的周长|[javascript](https://github.com/DcySc/Leetcode/blob/master/islandPerimeter.js)|
 |461| 汉明距离|[javascript](https://github.com/DcySc/Leetcode/blob/master/hammingDistance.js)|
 |459| 重复的子字符串|[javascript](https://github.com/DcySc/Leetcode/blob/master/repeatedSubstringPattern.js)|
+|455| 分发饼干|[javascript](https://github.com/DcySc/Leetcode/blob/master/findContentChildren.js)|
+|453| 最小移动次数使数组元素相等|[javascript](https://github.com/DcySc/Leetcode/blob/master/minMoves.js)|
+|450| 删除二叉搜索树中的节点|[javascript](https://github.com/DcySc/Leetcode/blob/master/deleteBSTNode.js)|
+|448| 找到所有数组中消失的数字|[javascript](https://github.com/DcySc/Leetcode/blob/master/findDisappearedNumbers.js)|
+|447| 回旋镖的数量|[javascript](https://github.com/DcySc/Leetcode/blob/master/numberOfBoomerangs.js)|
+|445| 两数相加 II|[javascript](https://github.com/DcySc/Leetcode/blob/master/addTwoNumbersList.js)|
+|443| 压缩字符串|[javascript](https://github.com/DcySc/Leetcode/blob/master/compress.js)|
+|442| 数组中重复的数据|[javascript](https://github.com/DcySc/Leetcode/blob/master/findDuplicates.js)|
+|441| 排列硬币|[javascript](https://github.com/DcySc/Leetcode/blob/master/arrangeCoins.js)|
+|437| 路径总和 III|[javascript](https://github.com/DcySc/Leetcode/blob/master/pathSum.js)|
+|434| 字符串中的单词数|[javascript](https://github.com/DcySc/Leetcode/blob/master/countSegments.js)|
+|419| 甲板上的战舰|[javascript](https://github.com/DcySc/Leetcode/blob/master/countBattleships.js)|
+|415| 字符串相加|[javascript](https://github.com/DcySc/Leetcode/blob/master/addStrings.js)|
+|414| 第三大的数|[javascript](https://github.com/DcySc/Leetcode/blob/master/thirdMax.js)|
+|413| 等差数列划分|[javascript](https://github.com/DcySc/Leetcode/blob/master/numberOfArithmeticSlices.js)|
+|412| Fizz Buzz|[javascript](https://github.com/DcySc/Leetcode/blob/master/fizzbuzz.js)|
+|409| 最长回文串|[javascript](https://github.com/DcySc/Leetcode/blob/master/clongestPalindrome.js)|
+|405| 数字转换为十六进制数|[javascript](https://github.com/DcySc/Leetcode/blob/master/toHex.js)|
+|404| 左叶子之和|[javascript](https://github.com/DcySc/Leetcode/blob/master/sumOfLeftLeaves.js)|
+|401| 二进制手表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/readBinaryWatch .js)|
+|400| 第N个数字 |[javascript](https://github.com/DcySc/Leetcode/blob/master/findNthDigit.js)|
+|390| 消除游戏 |[javascript](https://github.com/DcySc/Leetcode/blob/master/lastRemaining.js)|
+|389| 找不同  |[javascript](https://github.com/DcySc/Leetcode/blob/master/findTheDifference.js)|
+|387| 字符串中的第一个唯一字符  |[javascript](https://github.com/DcySc/Leetcode/blob/master/firstUniqChar.js)|
+|384| 打乱数组  |[javascript](https://github.com/DcySc/Leetcode/blob/master/Solution.js)|
+|383| 赎金信 |[javascript](https://github.com/DcySc/Leetcode/blob/master/canConstruct.js)|
+|371| 两整数之和 |[javascript](https://github.com/DcySc/Leetcode/blob/master/getSum.js)|
+|367| 有效的完全平方数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/isPerfectSquare.js)|
+|350| 两个数组的交集 II  |[javascript](https://github.com/DcySc/Leetcode/blob/master/intersectII.js)|
+|349| 两个数组的交集  |[javascript](https://github.com/DcySc/Leetcode/blob/master/intersection.js)|
+|345| 反转字符串中的元音字母  |[javascript](https://github.com/DcySc/Leetcode/blob/master/reverseVowels.js)|
+|344| 反转字符串  |[javascript](https://github.com/DcySc/Leetcode/blob/master/reverseString.js)|
+|342| 4的幂 |[javascript](https://github.com/DcySc/Leetcode/blob/master/isPowerOfFour.js)|
+|338| 比特位计数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/countBits.js)|
+|334| 递增的三元子序列 |[javascript](https://github.com/DcySc/Leetcode/blob/master/countBits.js)|
+|328| 奇偶链表    |[javascript](https://github.com/DcySc/Leetcode/blob/master/oddEvenList.js)|
+|326| 3的幂    |[javascript](https://github.com/DcySc/Leetcode/blob/master/isPowerOfThree.js)|
+|303| 区域和检索 - 数组不可变    |[javascript](https://github.com/DcySc/Leetcode/blob/master/numArray.js)|
+|297| 二叉树的序列化与反序列化   |[javascript](https://github.com/DcySc/Leetcode/blob/master/serialize.js)|
+|292| Nim游戏  |[javascript](https://github.com/DcySc/Leetcode/blob/master/canWinNim.js)|
+|290| 单词模式  |[javascript](https://github.com/DcySc/Leetcode/blob/master/wordPattern.js)|
+|287| 寻找重复数  |[javascript](https://github.com/DcySc/Leetcode/blob/master/findDuplicate.js)|
+|283| 移动零  |[javascript](https://github.com/DcySc/Leetcode/blob/master/moveZeroes.js)|
+|278| 第一个错误的版本   |[javascript](https://github.com/DcySc/Leetcode/blob/master/firstBadVersion.js)|
+|268| 缺失数字 |[javascript](https://github.com/DcySc/Leetcode/blob/master/missingNumber.js)|
+|263| 丑数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/isUgly.js)|
+|260| 只出现一次的数字 III |[javascript](https://github.com/DcySc/Leetcode/blob/master/singleNumberIII.js)|
+|258| 各位相加 |[javascript](https://github.com/DcySc/Leetcode/blob/master/addDigits.js)|
+|257| 二叉树的所有路径 |[javascript](https://github.com/DcySc/Leetcode/blob/master/binaryTreePaths.js)|
+|242| 有效的字母异位词 |[javascript](https://github.com/DcySc/Leetcode/blob/master/isAnagram.js)|
+|241| 为运算表达式设计优先级 |[javascript](https://github.com/DcySc/Leetcode/blob/master/diffWaysToCompute.js)|
+|238| 除自身以外数组的乘积  |[javascript](https://github.com/DcySc/Leetcode/blob/master/productExceptSelf.js)|
+|237| 删除链表中的节点  |[javascript](https://github.com/DcySc/Leetcode/blob/master/deleteNode.js)|
+|236| 二叉树的最近公共祖先  |[javascript](https://github.com/DcySc/Leetcode/blob/master/lowestCommonAncestor.js)|
+|235| 二叉搜索树的最近公共祖先  |[javascript](https://github.com/DcySc/Leetcode/blob/master/LCA.js)|
+|234| 回文链表  |[javascript](https://github.com/DcySc/Leetcode/blob/master/isPalindromeList.js)|
+|232| 用栈实现队列  |[javascript](https://github.com/DcySc/Leetcode/blob/master/MyQueue.js)|
+|231| 2的幂 |[javascript](https://github.com/DcySc/Leetcode/blob/master/isPowerOfTwo.js)|
+|230| 二叉搜索树中第K小的元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/kthSmallest.js)|
+|226| 翻转二叉树 |[javascript](https://github.com/DcySc/Leetcode/blob/master/invertTree.js)|
+|225| 用队列实现栈 |[javascript](https://github.com/DcySc/Leetcode/blob/master/MyStack.js)|
+|219| 存在重复元素 II  |[javascript](https://github.com/DcySc/Leetcode/blob/master/containsNearbyDuplicate.js)|
+|217| 存在重复元素  |[javascript](https://github.com/DcySc/Leetcode/blob/master/containsDuplicate.js)|
+|216| 组合总和 III  |[javascript](https://github.com/DcySc/Leetcode/blob/master/combinationSum3.js)|
+|215| 数组中的第K个最大元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/findKthLargest.js)|
+|208| 实现 Trie (前缀树) |[javascript](https://github.com/DcySc/Leetcode/blob/master/Trie.js)|
+|206| 反转链表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/reseveList.js)|
+|205| 同构字符串 |[javascript](https://github.com/DcySc/Leetcode/blob/master/isIsomorphic.js)|
+|204| 计数质数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/countPrime.js)|
+|203| 删除链表中的节点 |[javascript](https://github.com/DcySc/Leetcode/blob/master/removeElements.js)|
+|202| 快乐数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/isHappy.js)|
+|200| 岛屿的个数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/numIslands.js)|
+|198| 打家劫舍  |[javascript](https://github.com/DcySc/Leetcode/blob/master/rob.js)|
+|191| 位1的个数  |[javascript](https://github.com/DcySc/Leetcode/blob/master/hammingWeight.js)|
+|190| 颠倒二进制位  |[javascript](https://github.com/DcySc/Leetcode/blob/master/reverseBits.js)|
+|189| 旋转数组  |[javascript](https://github.com/DcySc/Leetcode/blob/master/rotateArray.js)|
+|187| 重复的DNA序列  |[javascript](https://github.com/DcySc/Leetcode/blob/master/findRepeatedDnaSequences.js)|
+|173| 二叉搜索树迭代器  |[javascript](https://github.com/DcySc/Leetcode/blob/master/BSTIterator.js)|
+|172| 阶乘后的零  |[javascript](https://github.com/DcySc/Leetcode/blob/master/trailingZeroes.js)|
+|171| Excel表列序号  |[javascript](https://github.com/DcySc/Leetcode/blob/master/titleToNumber.js)|
+|169| 求众数   |[javascript](https://github.com/DcySc/Leetcode/blob/master/majorityElement.js)|
+|168| Excel表列名称   |[javascript](https://github.com/DcySc/Leetcode/blob/master/convertToTitle.js)|
+|167| 两数之和 II - 输入有序数组    |[javascript](https://github.com/DcySc/Leetcode/blob/master/twoSumIndex.js)|
+|162| 寻找峰值    |[javascript](https://github.com/DcySc/Leetcode/blob/master/findPeakElement.js)|
+|160| 相交链表    |[javascript](https://github.com/DcySc/Leetcode/blob/master/getIntersectionNode.js)|
+|155| 最小栈    |[javascript](https://github.com/DcySc/Leetcode/blob/master/minStack.js)|
+|153| 寻找旋转排序数组中的最小值   |[javascript](https://github.com/DcySc/Leetcode/blob/master/findMin.js)|
+|145| 二叉树的后序遍历   |[javascript](https://github.com/DcySc/Leetcode/blob/master/postorderTraversal.js)|
+|144| 二叉树的前序遍历   |[javascript](https://github.com/DcySc/Leetcode/blob/master/preorderTraversal.js)|
+|141| 环形链表   |[javascript](https://github.com/DcySc/Leetcode/blob/master/hasCycle.js)|
+|137| 只出现一次的数字 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/singleNumberII.js)|
+|136| 只出现一次的数字   |[javascript](https://github.com/DcySc/Leetcode/blob/master/singleNumber.js)|
+
+
 
 
 
