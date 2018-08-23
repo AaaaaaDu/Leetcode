@@ -125,7 +125,7 @@
 |409| 最长回文串|[javascript](https://github.com/DcySc/Leetcode/blob/master/clongestPalindrome.js)|
 |405| 数字转换为十六进制数|[javascript](https://github.com/DcySc/Leetcode/blob/master/toHex.js)|
 |404| 左叶子之和|[javascript](https://github.com/DcySc/Leetcode/blob/master/sumOfLeftLeaves.js)|
-|401| 二进制手表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/readBinaryWatch .js)|
+|401| 二进制手表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/readBinaryWatch.js)|
 |400| 第N个数字 |[javascript](https://github.com/DcySc/Leetcode/blob/master/findNthDigit.js)|
 |390| 消除游戏 |[javascript](https://github.com/DcySc/Leetcode/blob/master/lastRemaining.js)|
 |389| 找不同  |[javascript](https://github.com/DcySc/Leetcode/blob/master/findTheDifference.js)|
