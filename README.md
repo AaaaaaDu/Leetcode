@@ -167,6 +167,7 @@
 |230| 二叉搜索树中第K小的元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/kthSmallest.js)|
 |226| 翻转二叉树 |[javascript](https://github.com/DcySc/Leetcode/blob/master/invertTree.js)|
 |225| 用队列实现栈 |[javascript](https://github.com/DcySc/Leetcode/blob/master/MyStack.js)|
+|220| 存在重复元素 III  |[javascript](https://github.com/DcySc/Leetcode/blob/master/containsNearbyAlmostDuplicate.js)|
 |219| 存在重复元素 II  |[javascript](https://github.com/DcySc/Leetcode/blob/master/containsNearbyDuplicate.js)|
 |217| 存在重复元素  |[javascript](https://github.com/DcySc/Leetcode/blob/master/containsDuplicate.js)|
 |216| 组合总和 III  |[javascript](https://github.com/DcySc/Leetcode/blob/master/combinationSum3.js)|
