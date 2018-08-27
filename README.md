@@ -96,6 +96,7 @@
 |504| 七进制数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/convertToBase7.js)|
 |501| 二叉搜索树中的众数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findMode.js)|
 |500| 键盘行|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findwords.js)|
+|498| 对角线遍历|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDiagonalOrder.js)|
 |496| 下一个更大元素 I|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/nextGreaterElement.js)|
 |492| 构造矩形|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/constructRectangle.js)|
 |485| 最大连续1的个数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findMaxConsecutiveOnes.js)|
