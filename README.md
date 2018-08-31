@@ -64,6 +64,7 @@
 |637| 二叉树的层平均值      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/averageOfLevels.js)|
 |633| 平方数之和      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/judgeSquareSum.js)|
 |628| 三个数的最大乘积      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maximumProduct.js)|
+|622| 设计循环队列      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyCircularQueue.js)|
 |617| 合并二叉树      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/mergeTrees.js)|
 |606| 根据二叉树创建字符串      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/tree2str.js)|
 |605| 种花问题      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canPlaceFlowers.js	)|
