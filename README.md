@@ -25,6 +25,7 @@
 |766| 托普利茨矩阵  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isToeplitzMatrix.js)|
 |763| 划分字母区间  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/partitionLabels.js)|
 |762| 二进制表示中质数个计算置位   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/countPrimeSetBits.js)|
+|752| 打开转盘锁   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/openLock.js)|
 |747| 至少是其他数字两倍的最大数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/dominantIndex.js)|
 |746| 使用最小花费爬楼梯    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minCostClimbingStairs.js)|
 |744| 寻找比目标字母大的最小字母     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/nextGreatestLetter.js)|
