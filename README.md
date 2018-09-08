@@ -152,6 +152,7 @@
 |290| 单词模式  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/wordPattern.js)|
 |287| 寻找重复数  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDuplicate.js)|
 |283| 移动零  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/moveZeroes.js)|
+|279| 完全平方数   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSquares.js)|
 |278| 第一个错误的版本   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/firstBadVersion.js)|
 |268| 缺失数字 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/missingNumber.js)|
 |263| 丑数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isUgly.js)|
