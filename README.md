@@ -29,6 +29,7 @@
 |747| 至少是其他数字两倍的最大数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/dominantIndex.js)|
 |746| 使用最小花费爬楼梯    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minCostClimbingStairs.js)|
 |744| 寻找比目标字母大的最小字母     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/nextGreatestLetter.js)|
+|739| 每日温度    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/dailyTemperatures.js)|
 |733| 图像渲染    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/floodFill.js)|
 |728| 自除数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/selfDividingNumbers.js)|
 |724| 寻找数组的中心索引    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/pivotIndex.js)|
@@ -68,8 +69,7 @@
 |622| 设计循环队列      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyCircularQueue.js)|
 |617| 合并二叉树      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/mergeTrees.js)|
 |606| 根据二叉树创建字符串      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/tree2str.js)|
-|605| 种花问题      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canPlaceFlowers.js	)|
-|599| 两个列表的最小索引总和      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findRestaurant.js)|
+dailyTemperatures|599| 两个列表的最小索引总和      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findRestaurant.js)|
 |598| 范围求和 II       |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxCount.js)|
 |594| 最长和谐子序列       |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findLHS.js)|
 |581| 最短无序连续子数组       |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findUnsortedSubarray.js)|
@@ -152,7 +152,7 @@
 |290| 单词模式  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/wordPattern.js)|
 |287| 寻找重复数  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDuplicate.js)|
 |283| 移动零  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/moveZeroes.js)|
-|279| 完全平方数   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSquares.js)|
+|279| 完全平方数   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSquaresdailyTemperatures.js)|
 |278| 第一个错误的版本   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/firstBadVersion.js)|
 |268| 缺失数字 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/missingNumber.js)|
 |263| 丑数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isUgly.js)|
