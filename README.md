@@ -69,7 +69,7 @@
 |622| 设计循环队列      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyCircularQueue.js)|
 |617| 合并二叉树      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/mergeTrees.js)|
 |606| 根据二叉树创建字符串      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/tree2str.js)|
-dailyTemperatures|599| 两个列表的最小索引总和      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findRestaurant.js)|
+|599| 两个列表的最小索引总和      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findRestaurant.js)|
 |598| 范围求和 II       |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxCount.js)|
 |594| 最长和谐子序列       |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findLHS.js)|
 |581| 最短无序连续子数组       |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findUnsortedSubarray.js)|
