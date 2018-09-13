@@ -100,6 +100,7 @@ dailyTemperatures|599| 两个列表的最小索引总和      |[javascript](http
 |500| 键盘行|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findwords.js)|
 |498| 对角线遍历|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDiagonalOrder.js)|
 |496| 下一个更大元素 I|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/nextGreaterElement.js)|
+|494| 目标和 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findTargetSumWays.js)|
 |492| 构造矩形|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/constructRectangle.js)|
 |485| 最大连续1的个数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findMaxConsecutiveOnes.js)|
 |482| 密钥格式化|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/licenseKeyFormatting.js)|
