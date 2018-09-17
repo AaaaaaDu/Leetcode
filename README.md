@@ -131,6 +131,7 @@
 |404| 左叶子之和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sumOfLeftLeaves.js)|
 |401| 二进制手表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/readBinaryWatch.js)|
 |400| 第N个数字 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findNthDigit.js)|
+|394| 字符串解码 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/decodeString.js)|
 |390| 消除游戏 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lastRemaining.js)|
 |389| 找不同  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findTheDifference.js)|
 |387| 字符串中的第一个唯一字符  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/firstUniqChar.js)|
