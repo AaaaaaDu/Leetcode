@@ -82,6 +82,7 @@
 |553| 最优除法   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/optimalDivision.js)|
 |551| 学生出勤纪录 I   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/checkRecord.js)|
 |543| 二叉树的直径   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/diameterOfBinaryTree.js)|
+|542| 01 矩阵   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/updateMatrix.js)|
 |541| 反转字符串 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reverseStr.js)|
 |540| 有序数组中的单一元素   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/singleNonDuplicate.js)|
 |538| 把二叉搜索树转换为累加树   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/convertBST.js)|
