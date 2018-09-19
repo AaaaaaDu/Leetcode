@@ -1,6 +1,7 @@
 | # | 题目        | 解答   |    
 |---| --------    | -----  |
 |861| 翻转矩阵后的得分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/matrixScore.js)|
+|841| 钥匙和房间|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canVisitAllRooms.js)|
 |836| 矩形重叠|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isRectangleOverlap.js)|
 |832| 翻转图像 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/flipAndInvertImage.js)|
 |830| 较大分组的位置 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/largeGroupPositions.js)|
