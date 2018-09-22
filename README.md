@@ -276,6 +276,7 @@
 |8| 字符串转整数 (atoi)  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isAtoi.js)|
 |7| 反转整数  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reverse.js)|
 |5| 最长回文子串  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/longestPalindrome.js)|
+|4| 两个排序数组的中位数  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findMedianSortedArrays.js)|
 |3| 无重复字符的最长子串  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lengthOfLongestSubstring.js)|
 |2| 两数相加 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/addTwoNumbers.js)|
 |1| 两数之和 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/twoSum.js)|
