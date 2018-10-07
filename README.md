@@ -264,6 +264,7 @@
 |27| 移除元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/removeElement.js)|
 |26| 删除排序数组中的重复项 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/removeDuplicates.js)|
 |24| 两两交换链表中的节点 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/swapPairs.js)|
+|23| 合并K个排序链表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/mergeKLists.js)|
 |22| 括号生成 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/generateParenthesis.js)|
 |21| 合并两个有序链表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/mergeTwoLists.js)|
 |20| 有效的括号 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isValid.js)|
