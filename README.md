@@ -207,6 +207,7 @@
 |150| 逆波兰表达式求值   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/evalRPN.js)|
 |145| 二叉树的后序遍历   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/postorderTraversal.js)|
 |144| 二叉树的前序遍历   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/preorderTraversal.js)|
+|142| 环形链表 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/detectCycle.js)|
 |141| 环形链表   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/hasCycle.js)|
 |137| 只出现一次的数字 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/singleNumberII.js)|
 |136| 只出现一次的数字   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/singleNumber.js)|
