@@ -263,6 +263,7 @@
 |38| 报数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/countAndSay.js)|
 |36| 有效的数独    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isValidSudoku.js)|
 |35| 搜索插入位置    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/searchInsert.js)|
+|33| 搜索旋转排序数组    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/search.js)|
 |28| 实现strStr()   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/strStr.js)|
 |27| 移除元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/removeElement.js)|
 |26| 删除排序数组中的重复项 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/removeDuplicates.js)|
