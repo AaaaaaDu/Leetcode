@@ -250,6 +250,7 @@
 |67| 二进制求和    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/addBinary.js)|
 |66| 加一    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/plusOne.js)|
 |64| 最小路径和  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minPathSum.js)|
+|62| 不同路径  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/uniquePaths.js)|
 |61| 旋转链表  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/rotateRight.js)|
 |59| 螺旋矩阵 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/generateMatrix.js)|
 |58| 最后一个单词的长度  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lengthOfLastWord.js)|
