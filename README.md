@@ -206,6 +206,7 @@
 |151| 翻转字符串里的单词   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reverseWordsFromString.js)|
 |150| 逆波兰表达式求值   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/evalRPN.js)|
 |148| 排序链表   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortList.js)|
+|146| LRU缓存机制   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/LRUCache.js)|
 |145| 二叉树的后序遍历   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/postorderTraversal.js)|
 |144| 二叉树的前序遍历   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/preorderTraversal.js)|
 |142| 环形链表 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/detectCycle.js)|
