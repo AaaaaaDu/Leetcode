@@ -38,6 +38,7 @@
 |717| 1比特与2比特字符    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isOneBitCharacter.js)|
 |712| 两个字符串的最小ASCII删除和    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minimumDeleteSum.js)|
 |709| 转换成小写字母    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/toLowerCase.js)|
+|706| 设计哈希映射    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyHashMap.js)|
 |705| 设计哈希集合    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyHashSet.js)|
 |703| 数据流中的第K大元素    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/KthLargest.js)|
 |701| 二叉搜索树中的插入操作    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/insertIntoBST.js)|
