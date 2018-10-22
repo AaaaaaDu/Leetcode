@@ -5,15 +5,12 @@
  */
 var containsNearbyDuplicate = function(nums, k) {
     if(!k) return false;
-    var len=nums.length;
-    for(var i=0;i<len-k;i++){
-        for(var j=i+1;j<=i+k;j++){
-            if(j<len){
-                if(nums[i]===nums[j]){
-                    return true;
-                }
-            }
-        }
+    let len=nums.length, map = new Map();
+    for(let i = 0; i < len; i++) {
+        let preIndex = map.get(nums[i]);
+        if(preIndex !== undefined && i - preIndex <= k) return true;
+        
+        map.set(nums[i], i);
     }
     return false;
 };
