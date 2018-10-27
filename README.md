@@ -63,6 +63,7 @@
 |655| 输出二叉树      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/printTree.js)|
 |654| 最大二叉树      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/constructMaximumBinaryTree.js)|
 |653| 两数之和 IV - 输入 BST      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findTarget.js)|
+|652| 寻找重复的子树 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDuplicateSubtrees.js)|
 |645| 错误的集合     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findErrorNums.js)|
 |643| 子数组最大平均数 I     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findMaxAverage.js)|
 |638| 大礼包      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/shoppingOffers.js)|
