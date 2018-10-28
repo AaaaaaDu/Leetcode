@@ -116,6 +116,7 @@
 |461| 汉明距离|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/hammingDistance.js)|
 |459| 重复的子字符串|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/repeatedSubstringPattern.js)|
 |455| 分发饼干|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findContentChildren.js)|
+|454| 四数相加 II|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/fourSumCount.js)|
 |453| 最小移动次数使数组元素相等|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minMoves.js)|
 |450| 删除二叉搜索树中的节点|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/deleteBSTNode.js)|
 |448| 找到所有数组中消失的数字|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDisappearedNumbers.js)|
