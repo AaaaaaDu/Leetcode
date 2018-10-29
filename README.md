@@ -147,6 +147,7 @@
 |367| 有效的完全平方数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isPerfectSquare.js)|
 |350| 两个数组的交集 II  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/intersectII.js)|
 |349| 两个数组的交集  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/intersection.js)|
+|347| 前K个高频元素  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/topKFrequent.js)|
 |345| 反转字符串中的元音字母  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reverseVowels.js)|
 |344| 反转字符串  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reverseString.js)|
 |342| 4的幂 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isPowerOfFour.js)|
