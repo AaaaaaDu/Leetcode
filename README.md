@@ -251,6 +251,7 @@
 |80| 删除排序数组中的重复项 II      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/removeDuplicatesII.js)|
 |78| 子集      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/subsets.js)|
 |77| 组合   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/combine.js)|
+|75| 颜色分类   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortColors.js)|
 |73| 矩阵置零   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/setZeroes.js)|
 |70| 爬楼梯   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/climbStairs.js)|
 |69| x 的平方根    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/mySqrt.js)|
