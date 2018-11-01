@@ -118,6 +118,7 @@
 |455| 分发饼干|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findContentChildren.js)|
 |454| 四数相加 II|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/fourSumCount.js)|
 |453| 最小移动次数使数组元素相等|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minMoves.js)|
+|451| 根据字符出现频率排序|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/frequencySort.js)|
 |450| 删除二叉搜索树中的节点|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/deleteBSTNode.js)|
 |448| 找到所有数组中消失的数字|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDisappearedNumbers.js)|
 |447| 回旋镖的数量|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numberOfBoomerangs.js)|
