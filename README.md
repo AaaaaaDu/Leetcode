@@ -212,6 +212,7 @@
 |153| 寻找旋转排序数组中的最小值   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findMin.js)|
 |151| 翻转字符串里的单词   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reverseWordsFromString.js)|
 |150| 逆波兰表达式求值   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/evalRPN.js)|
+|149| 直线上最多的点数   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxPoints.js)|
 |148| 排序链表   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortList.js)|
 |146| LRU缓存机制   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/LRUCache.js)|
 |145| 二叉树的后序遍历   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/postorderTraversal.js)|
