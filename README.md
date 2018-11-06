@@ -219,6 +219,7 @@
 |144| 二叉树的前序遍历   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/preorderTraversal.js)|
 |142| 环形链表 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/detectCycle.js)|
 |141| 环形链表   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/hasCycle.js)|
+|138| 复制带随机指针的链表   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/copyRandomList.js)|
 |137| 只出现一次的数字 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/singleNumberII.js)|
 |136| 只出现一次的数字   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/singleNumber.js)|
 |133| 克隆图   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/cloneGraph.js)|
