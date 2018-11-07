@@ -265,6 +265,7 @@
 |61| 旋转链表  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/rotateRight.js)|
 |59| 螺旋矩阵 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/generateMatrix.js)|
 |58| 最后一个单词的长度  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lengthOfLastWord.js)|
+|55| 跳跃游戏  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canJump.js)|
 |54| 螺旋矩阵  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/spiralOrder.js)|
 |53| 最大子序和  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxSubArray.js)|
 |52| N皇后 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/totalNQueens.js)|
