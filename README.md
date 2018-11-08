@@ -272,6 +272,7 @@
 |49| 字母异位词分组   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/groupAnagrams.js)|
 |48| 旋转图像   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/rotate.js)|
 |46| 全排列   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/permute.js)|
+|45| 跳跃游戏 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/jump.js)|
 |43| 字符串相乘   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/multiply.js)|
 |39| 组合总和    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/combinationSum.js)|
 |38| 报数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/countAndSay.js)|
