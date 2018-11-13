@@ -136,6 +136,7 @@
 |413| 等差数列划分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numberOfArithmeticSlices.js)|
 |412| Fizz Buzz|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/fizzbuzz.js)|
 |409| 最长回文串|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/clongestPalindrome.js)|
+|406| 根据身高重建队列|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reconstructQueue.js)|
 |405| 数字转换为十六进制数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/toHex.js)|
 |404| 左叶子之和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sumOfLeftLeaves.js)|
 |401| 二进制手表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/readBinaryWatch.js)|
