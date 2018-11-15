@@ -73,6 +73,7 @@
 |633| 平方数之和      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/judgeSquareSum.js)|
 |628| 三个数的最大乘积      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maximumProduct.js)|
 |622| 设计循环队列      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyCircularQueue.js)|
+|621| 任务调度器      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/leastInterval.js)|
 |617| 合并二叉树      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/mergeTrees.js)|
 |606| 根据二叉树创建字符串      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/tree2str.js)|
 |599| 两个列表的最小索引总和      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findRestaurant.js)|
