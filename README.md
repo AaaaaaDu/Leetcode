@@ -38,6 +38,7 @@
 |724| 寻找数组的中心索引    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/pivotIndex.js)|
 |720| 词典中最长的单词    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/longestWord.js)|
 |717| 1比特与2比特字符    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isOneBitCharacter.js)|
+|714| 买卖股票的最佳时机含手续费    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxProfit3.js)|
 |712| 两个字符串的最小ASCII删除和    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minimumDeleteSum.js)|
 |709| 转换成小写字母    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/toLowerCase.js)|
 |706| 设计哈希映射    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyHashMap.js)|
