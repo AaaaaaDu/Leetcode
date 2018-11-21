@@ -132,6 +132,7 @@
 |442| 数组中重复的数据|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDuplicates.js)|
 |441| 排列硬币|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/arrangeCoins.js)|
 |437| 路径总和 III|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/pathSum.js)|
+|435| 无重叠区间|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/eraseOverlapIntervals.js)|
 |434| 字符串中的单词数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/countSegments.js)|
 |419| 甲板上的战舰|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/countBattleships.js)|
 |415| 字符串相加|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/addStrings.js)|
