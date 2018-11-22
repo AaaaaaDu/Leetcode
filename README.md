@@ -33,6 +33,7 @@
 |746| 使用最小花费爬楼梯    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minCostClimbingStairs.js)|
 |744| 寻找比目标字母大的最小字母     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/nextGreatestLetter.js)|
 |739| 每日温度    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/dailyTemperatures.js)|
+|738| 单调递增的数字    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/monotoneIncreasingDigits.js)|
 |733| 图像渲染    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/floodFill.js)|
 |728| 自除数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/selfDividingNumbers.js)|
 |724| 寻找数组的中心索引    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/pivotIndex.js)|
