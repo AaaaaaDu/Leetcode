@@ -154,6 +154,7 @@
 |384| 打乱数组  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/Solution.js)|
 |383| 赎金信 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canConstruct.js)|
 |380| 常数时间插入、删除和获取随机元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/RandomizedSet.js)|
+|376| 摆动序列 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/wiggleMaxLength.js)|
 |371| 两整数之和 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/getSum.js)|
 |367| 有效的完全平方数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isPerfectSquare.js)|
 |350| 两个数组的交集 II  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/intersectII.js)|
