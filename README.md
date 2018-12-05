@@ -85,6 +85,7 @@
 |581| 最短无序连续子数组       |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findUnsortedSubarray.js)|
 |575| 分糖果 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/distributeCandies.js)|
 |572| 另一个树的子树 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isSubtree.js)|
+|567| 字符串的排列 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/checkInclusion.js)|
 |566| 重塑矩阵 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/matrixReshape.js)|
 |563| 二叉树的坡度 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findTilt.js)|
 |561| 数组拆分 I  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/arrayPairSum.js)|
