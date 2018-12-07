@@ -261,6 +261,7 @@
 |100| 相同的树    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isSameTree.js)|
 |98| 验证二叉搜索树     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isValidBST.js)|
 |94| 二叉树的中序遍历     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isValidBST.js)|
+|93| 复原IP地址     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/restoreIpAddresses.js)|
 |89| 格雷编码     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/grayCode.js)|
 |88| 合并两个有序数组     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/merge.js)|
 |83| 删除排序链表中的重复元素     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/deleteDuplicates.js)|
