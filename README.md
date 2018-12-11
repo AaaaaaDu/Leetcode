@@ -279,6 +279,7 @@
 |64| 最小路径和  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minPathSum.js)|
 |62| 不同路径  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/uniquePaths.js)|
 |61| 旋转链表  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/rotateRight.js)|
+|60| 第k个排列  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/getPermutation.js)|
 |59| 螺旋矩阵 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/generateMatrix.js)|
 |58| 最后一个单词的长度  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lengthOfLastWord.js)|
 |55| 跳跃游戏  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canJump.js)|
