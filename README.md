@@ -195,6 +195,7 @@
 |230| 二叉搜索树中第K小的元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/kthSmallest.js)|
 |226| 翻转二叉树 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/invertTree.js)|
 |225| 用队列实现栈 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyStack.js)|
+|221| 最大正方形  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maximalSquare.js)|
 |220| 存在重复元素 III  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/containsNearbyAlmostDuplicate.js)|
 |219| 存在重复元素 II  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/containsNearbyDuplicate.js)|
 |217| 存在重复元素  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/containsDuplicate.js)|
