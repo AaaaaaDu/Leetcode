@@ -244,6 +244,7 @@
 |124| 二叉树中的最大路径和   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxPathSum.js)|
 |122| 买卖股票的最佳时机 II    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxProfit.js)|
 |121| 买卖股票的最佳时机    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxProfit2.js)|
+|120| 三角形最小路径和    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minimumTotal.js)|
 |119| 杨辉三角 II    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/getRow.js)|
 |118| 杨辉三角    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/generate.js)|
 |117| 填充同一层的兄弟节点 II    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/connectII.js)|
