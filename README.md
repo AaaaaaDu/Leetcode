@@ -171,6 +171,7 @@
 |328| 奇偶链表    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/oddEvenList.js)|
 |326| 3的幂    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isPowerOfThree.js)|
 |303| 区域和检索 - 数组不可变    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numArray.js)|
+|300|  最长上升子序列    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lengthOfLIS.js)|
 |297| 二叉树的序列化与反序列化   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/serialize.js)|
 |292| Nim游戏  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canWinNim.js)|
 |290| 单词模式  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/wordPattern.js)|
