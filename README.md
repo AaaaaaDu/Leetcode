@@ -160,6 +160,7 @@
 |376| 摆动序列 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/wiggleMaxLength.js)|
 |371| 两整数之和 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/getSum.js)|
 |367| 有效的完全平方数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isPerfectSquare.js)|
+|354| 俄罗斯套娃信封问题 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxEnvelopes.js)|
 |350| 两个数组的交集 II  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/intersectII.js)|
 |349| 两个数组的交集  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/intersection.js)|
 |347| 前K个高频元素  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/topKFrequent.js)|
