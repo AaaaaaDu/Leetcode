@@ -274,6 +274,7 @@
 |88| 合并两个有序数组     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/merge.js)|
 |83| 删除排序链表中的重复元素     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/deleteDuplicates.js)|
 |80| 删除排序数组中的重复项 II      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/removeDuplicatesII.js)|
+|79| 单词搜索      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/exist.js)|
 |78| 子集      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/subsets.js)|
 |77| 组合   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/combine.js)|
 |75| 颜色分类   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortColors.js)|
