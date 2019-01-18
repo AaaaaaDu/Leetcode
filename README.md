@@ -226,6 +226,7 @@
 |169| 求众数   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/majorityElement.js)|
 |168| Excel表列名称   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/convertToTitle.js)|
 |167| 两数之和 II - 输入有序数组    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/twoSumIndex.js)|
+|166| 分数到小数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/fractionToDecimal.js)|
 |162| 寻找峰值    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findPeakElement.js)|
 |160| 相交链表    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/getIntersectionNode.js)|
 |155| 最小栈    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minStack.js)|
