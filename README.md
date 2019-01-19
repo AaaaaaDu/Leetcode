@@ -179,6 +179,7 @@
 |297| 二叉树的序列化与反序列化   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/serialize.js)|
 |292| Nim游戏  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canWinNim.js)|
 |290| 单词模式  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/wordPattern.js)|
+|289| 生命游戏  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/gameOfLife.js)|
 |287| 寻找重复数  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findDuplicate.js)|
 |283| 移动零  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/moveZeroes.js)|
 |279| 完全平方数   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSquaresdailyTemperatures.js)|
