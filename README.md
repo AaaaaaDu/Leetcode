@@ -306,6 +306,7 @@
 |45| 跳跃游戏 II   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/jump.js)|
 |43| 字符串相乘   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/multiply.js)|
 |42| 接雨水   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/trap.js)|
+|41| 缺失的第一个正数   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/firstMissingPositive.js)|
 |39| 组合总和    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/combinationSum.js)|
 |38| 报数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/countAndSay.js)|
 |36| 有效的数独    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isValidSudoku.js)|
