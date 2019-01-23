@@ -283,6 +283,7 @@
 |79| 单词搜索      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/exist.js)|
 |78| 子集      |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/subsets.js)|
 |77| 组合   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/combine.js)|
+|76| 最小覆盖子串   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minWindow.js)|
 |75| 颜色分类   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortColors.js)|
 |73| 矩阵置零   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/setZeroes.js)|
 |71| 简化路径   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/simplifyPath.js)|
