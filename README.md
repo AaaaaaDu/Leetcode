@@ -212,6 +212,7 @@
 |215| 数组中的第K个最大元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findKthLargest.js)|
 |209| 长度最小的子数组 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minSubArrayLen.js)|
 |208| 实现 Trie (前缀树) |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/Trie.js)|
+|207| 课程表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canFinish.js)|
 |206| 反转链表 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reseveList.js)|
 |205| 同构字符串 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isIsomorphic.js)|
 |204| 计数质数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/countPrime.js)|
