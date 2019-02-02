@@ -3,6 +3,7 @@
 |977| 有序数组的平方|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortedSquares.js)|
 |961| 重复 N 次的元素|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/repeatedNTimes.js)|
 |944| 删除列以使之有序|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minDeletionSize.js)|
+|942| 增减字符串匹配|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/diStringMatch.js)|
 |929| 独特的电子邮件地址|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numUniqueEmails.js)|
 |905| 按奇偶排序数组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParity.js)|
 |874| 模拟行走机器人|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/robotSim.js)|
