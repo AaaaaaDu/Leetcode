@@ -1,5 +1,6 @@
 | # | 题目        | 解答   |    
 |---| --------    | -----  |
+|985| 查询后的偶数和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sumEvenAfterQueries.js)|
 |977| 有序数组的平方|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortedSquares.js)|
 |961| 重复 N 次的元素|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/repeatedNTimes.js)|
 |944| 删除列以使之有序|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minDeletionSize.js)|
