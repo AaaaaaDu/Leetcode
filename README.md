@@ -6,6 +6,7 @@
 |944| 删除列以使之有序|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minDeletionSize.js)|
 |942| 增减字符串匹配|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/diStringMatch.js)|
 |929| 独特的电子邮件地址|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numUniqueEmails.js)|
+|922| 按奇偶排序数组 II|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParityII.js)|
 |905| 按奇偶排序数组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParity.js)|
 |874| 模拟行走机器人|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/robotSim.js)|
 |861| 翻转矩阵后的得分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/matrixScore.js)|
