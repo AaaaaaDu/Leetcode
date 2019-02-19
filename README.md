@@ -115,6 +115,7 @@
 |521| 最长特殊序列 Ⅰ|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findLUSlength.js)|
 |520| 检测大写字母|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/detectCapitalUse.js)|
 |513| 找树左下角的值|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findBottomLeftValue.js)|
+|509| 斐波那契数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/fib.js)|
 |508| 出现次数最多的子树元素和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findFrequentTreeSum.js)|
 |507| 完美数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/checkPerfectNumber.js)|
 |506| 相对名次|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findRelativeRanks.js)|
