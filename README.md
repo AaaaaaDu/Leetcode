@@ -13,6 +13,7 @@
 |908| 最小差值 I|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/smallestRangeI.js)|
 |905| 按奇偶排序数组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParity.js)|
 |874| 模拟行走机器人|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/robotSim.js)|
+|867| 转置矩阵|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/transpose.js)|
 |861| 翻转矩阵后的得分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/matrixScore.js)|
 |860| 柠檬水找零|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lemonadeChange.js)|
 |852| 山脉数组的峰顶索引|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/peakIndexInMountainArray.js)|
