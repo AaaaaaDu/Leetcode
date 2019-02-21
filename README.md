@@ -2,6 +2,7 @@
 |---| --------    | -----  |
 |985| 查询后的偶数和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sumEvenAfterQueries.js)|
 |977| 有序数组的平方|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortedSquares.js)|
+|976| 三角形的最大周长|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/largestPerimeter.js)|
 |973| 最接近原点的 K 个点|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/kClosest.js)|
 |965| 单值二叉树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isUnivalTree.js)|
 |961| 重复 N 次的元素|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/repeatedNTimes.js)|
