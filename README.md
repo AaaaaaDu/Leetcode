@@ -17,6 +17,7 @@
 |883| 三维形体投影面积|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/projectionArea.js)|
 |876| 链表的中间结点|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/middleNode.js)|
 |874| 模拟行走机器人|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/robotSim.js)|
+|868| 二进制间距|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/binaryGap.js)|
 |867| 转置矩阵|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/transpose.js)|
 |861| 翻转矩阵后的得分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/matrixScore.js)|
 |860| 柠檬水找零|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lemonadeChange.js)|
