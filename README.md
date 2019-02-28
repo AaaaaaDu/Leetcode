@@ -16,6 +16,7 @@
 |908| 最小差值 I|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/smallestRangeI.js)|
 |905| 按奇偶排序数组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParity.js)|
 |893| 特殊等价字符串组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSpecialEquivGroups.js)|
+|887| 鸡蛋掉落|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/superEggDrop.js)|
 |884| 两句话中的不常见单词|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/uncommonFromSentences.js)|
 |883| 三维形体投影面积|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/projectionArea.js)|
 |876| 链表的中间结点|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/middleNode.js)|
