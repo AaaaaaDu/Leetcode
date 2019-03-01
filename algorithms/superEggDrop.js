@@ -7,7 +7,7 @@ var superEggDrop = function(K, N) {
     const dp = [];
     
     for (let i = 0; i <= K; i++) {
-        dp[i] = [];
+        dp[i] = new Array(N).fill(0);
     }
     
     for (let m = 1; m <= N; m++) {
