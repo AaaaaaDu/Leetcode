@@ -18,6 +18,7 @@
 |922| 按奇偶排序数组 II|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParityII.js)|
 |908| 最小差值 I|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/smallestRangeI.js)|
 |905| 按奇偶排序数组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParity.js)|
+|897| 递增顺序查找树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/increasingBST.js)|
 |893| 特殊等价字符串组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSpecialEquivGroups.js)|
 |887| 鸡蛋掉落|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/superEggDrop.js)|
 |884| 两句话中的不常见单词|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/uncommonFromSentences.js)|
