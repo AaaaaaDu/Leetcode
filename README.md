@@ -21,6 +21,7 @@
 |897| 递增顺序查找树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/increasingBST.js)|
 |893| 特殊等价字符串组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSpecialEquivGroups.js)|
 |892| 三维形体的表面积|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/surfaceArea.js)|
+|888| 公平的糖果交换|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/fairCandySwap.js)|
 |887| 鸡蛋掉落|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/superEggDrop.js)|
 |884| 两句话中的不常见单词|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/uncommonFromSentences.js)|
 |883| 三维形体投影面积|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/projectionArea.js)|
