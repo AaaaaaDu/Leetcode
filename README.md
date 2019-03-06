@@ -74,6 +74,7 @@
 |709| 转换成小写字母    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/toLowerCase.js)|
 |706| 设计哈希映射    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyHashMap.js)|
 |705| 设计哈希集合    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyHashSet.js)|
+|704| 二分查找    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/search.js)|
 |703| 数据流中的第K大元素    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/KthLargest.js)|
 |701| 二叉搜索树中的插入操作    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/insertIntoBST.js)|
 |700| 二叉搜索树中的搜索    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/searchBST.js)|
