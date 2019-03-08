@@ -19,6 +19,7 @@
 |908| 最小差值 I|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/smallestRangeI.js)|
 |905| 按奇偶排序数组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParity.js)|
 |897| 递增顺序查找树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/increasingBST.js)|
+|896| 单调数列|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isMonotonic.js)|
 |893| 特殊等价字符串组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSpecialEquivGroups.js)|
 |892| 三维形体的表面积|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/surfaceArea.js)|
 |888| 公平的糖果交换|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/fairCandySwap.js)|
