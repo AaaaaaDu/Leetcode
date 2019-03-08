@@ -34,6 +34,7 @@
 |861| 翻转矩阵后的得分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/matrixScore.js)|
 |860| 柠檬水找零|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lemonadeChange.js)|
 |852| 山脉数组的峰顶索引|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/peakIndexInMountainArray.js)|
+|844| 比较含退格的字符串|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/backspaceCompare.js)|
 |841| 钥匙和房间|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canVisitAllRooms.js)|
 |836| 矩形重叠|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isRectangleOverlap.js)|
 |832| 翻转图像 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/flipAndInvertImage.js)|
