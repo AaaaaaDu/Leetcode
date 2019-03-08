@@ -17,6 +17,7 @@
 |937| 重新排列日志文件|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reorderLogFiles.js)|
 |933| 最近的请求次数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/RecentCounter.js)|
 |929| 独特的电子邮件地址|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numUniqueEmails.js)|
+|925| 长按键入|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isLongPressedName.js)|
 |922| 按奇偶排序数组 II|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParityII.js)|
 |917| 仅仅反转字母 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reverseOnlyLetters.js)|
 |908| 最小差值 I|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/smallestRangeI.js)|
