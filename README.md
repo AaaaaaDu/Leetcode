@@ -1,5 +1,6 @@
 | # | 题目        | 解答   |    
 |---| --------    | -----  |
+|1002| 查找常用字符|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/commonChars.js)|
 |999| 车的可用捕获量|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numRookCaptures.js)|
 |997| 找到小镇的法官|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findJudge.js)|
 |994| 腐烂的橘子|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/orangesRotting.js)|
