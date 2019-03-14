@@ -67,6 +67,7 @@
 |766| 托普利茨矩阵  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isToeplitzMatrix.js)|
 |763| 划分字母区间  |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/partitionLabels.js)|
 |762| 二进制表示中质数个计算置位   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/countPrimeSetBits.js)|
+|754| 到达终点数字   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reachNumber.js)|
 |752| 打开转盘锁   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/openLock.js)|
 |748| 最短完整词    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/shortestCompletingWord.js)|
 |747| 至少是其他数字两倍的最大数    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/dominantIndex.js)|
