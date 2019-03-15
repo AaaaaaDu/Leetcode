@@ -17,6 +17,7 @@
 |953| 验证外星语词典|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isAlienSorted.js)|
 |944| 删除列以使之有序|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minDeletionSize.js)|
 |942| 增减字符串匹配|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/diStringMatch.js)|
+|941| 有效的山脉数组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/validMountainArray.js)|
 |937| 重新排列日志文件|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reorderLogFiles.js)|
 |933| 最近的请求次数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/RecentCounter.js)|
 |929| 独特的电子邮件地址|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numUniqueEmails.js)|
