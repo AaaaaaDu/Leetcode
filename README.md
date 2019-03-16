@@ -45,6 +45,7 @@
 |849| 到最近的人的最大距离|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxDistToClosest.js)|
 |844| 比较含退格的字符串|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/backspaceCompare.js)|
 |841| 钥匙和房间|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canVisitAllRooms.js)|
+|840| 矩阵中的幻方|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numMagicSquaresInside.js)|
 |836| 矩形重叠|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isRectangleOverlap.js)|
 |832| 翻转图像 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/flipAndInvertImage.js)|
 |830| 较大分组的位置 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/largeGroupPositions.js)|
