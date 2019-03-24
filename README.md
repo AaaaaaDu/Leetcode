@@ -1,5 +1,6 @@
 | # | 题目        | 解答   |    
 |---| --------    | -----  |
+|1013| 总持续时间可被60整除的歌曲|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numPairsDivisibleBy60.js)|
 |1012| 十进制整数的反码|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/bitwiseComplement.js)|
 |1005| K 次取反后最大化的数组和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/largestSumAfterKNegations.js)|
 |1002| 查找常用字符|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/commonChars.js)|
