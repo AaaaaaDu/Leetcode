@@ -1,5 +1,6 @@
 | # | 题目        | 解答   |    
 |---| --------    | -----  |
+|1018| 可被 5 整除的二进制前缀|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/prefixesDivBy5.js)|
 |1013| 将数组分成和相等的三个部分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canThreePartsEqualSum.js)|
 |1012| 十进制整数的反码|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/bitwiseComplement.js)|
 |1010| 总持续时间可被60整除的歌曲|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numPairsDivisibleBy60.js)|
