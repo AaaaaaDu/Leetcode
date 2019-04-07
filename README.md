@@ -92,6 +92,7 @@
 |714| 买卖股票的最佳时机含手续费    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxProfit3.js)|
 |712| 两个字符串的最小ASCII删除和    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minimumDeleteSum.js)|
 |709| 转换成小写字母    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/toLowerCase.js)|
+|707| 设计链表    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyLinkedList.js)|
 |706| 设计哈希映射    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyHashMap.js)|
 |705| 设计哈希集合    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/MyHashSet.js)|
 |704| 二分查找    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/search.js)|
