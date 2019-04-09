@@ -47,6 +47,7 @@
 |867| 转置矩阵|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/transpose.js)|
 |861| 翻转矩阵后的得分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/matrixScore.js)|
 |860| 柠檬水找零|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/lemonadeChange.js)|
+|859| 亲密字符串|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/buddyStrings.js)|
 |852| 山脉数组的峰顶索引|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/peakIndexInMountainArray.js)|
 |849| 到最近的人的最大距离|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/maxDistToClosest.js)|
 |844| 比较含退格的字符串|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/backspaceCompare.js)|
