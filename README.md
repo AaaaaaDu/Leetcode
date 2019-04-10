@@ -19,6 +19,7 @@
 |965| 单值二叉树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isUnivalTree.js)|
 |961| 重复 N 次的元素|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/repeatedNTimes.js)|
 |953| 验证外星语词典|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isAlienSorted.js)|
+|950| 按递增顺序显示卡牌|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/deckRevealedIncreasing.js)|
 |949| 给定数字能组成的最大时间|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/largestTimeFromDigits.js)|
 |944| 删除列以使之有序|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minDeletionSize.js)|
 |942| 增减字符串匹配|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/diStringMatch.js)|
