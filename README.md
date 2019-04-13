@@ -4,6 +4,7 @@
 |1013| 将数组分成和相等的三个部分|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/canThreePartsEqualSum.js)|
 |1012| 十进制整数的反码|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/bitwiseComplement.js)|
 |1010| 总持续时间可被60整除的歌曲|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numPairsDivisibleBy60.js)|
+|1008| 先序遍历构造二叉树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/bstFromPreorder.js)|
 |1005| K 次取反后最大化的数组和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/largestSumAfterKNegations.js)|
 |1002| 查找常用字符|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/commonChars.js)|
 |999| 车的可用捕获量|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numRookCaptures.js)|
