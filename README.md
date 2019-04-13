@@ -13,7 +13,7 @@
 |989| 数组形式的整数加法|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/addToArrayForm.js)|
 |985| 查询后的偶数和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sumEvenAfterQueries.js)|
 |977| 有序数组的平方|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortedSquares.js)|
-|976| 三角形的最大周长|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/largestPerimeter.js)|
+|976| 三角形的最大周长|[javascript](https://github.com/DcySc/Leetrocode/blob/master/algorithms/largestPerimeter.js)|
 |973| 最接近原点的 K 个点|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/kClosest.js)|
 |970| 强整数 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/powerfulIntegers.js)|
 |965| 单值二叉树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isUnivalTree.js)|
@@ -24,6 +24,7 @@
 |944| 删除列以使之有序|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minDeletionSize.js)|
 |942| 增减字符串匹配|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/diStringMatch.js)|
 |941| 有效的山脉数组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/validMountainArray.js)|
+|938| 二叉搜索树的范围和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/rangeSumBST.js)|
 |937| 重新排列日志文件|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reorderLogFiles.js)|
 |933| 最近的请求次数|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/RecentCounter.js)|
 |929| 独特的电子邮件地址|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numUniqueEmails.js)|
