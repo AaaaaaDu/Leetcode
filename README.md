@@ -40,6 +40,7 @@
 |894| 所有可能的满二叉树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/allPossibleFBT.js)|
 |893| 特殊等价字符串组|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numSpecialEquivGroups.js)|
 |892| 三维形体的表面积|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/surfaceArea.js)|
+|890| 查找和替换模式|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/findAndReplacePattern.js)|
 |888| 公平的糖果交换|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/fairCandySwap.js)|
 |887| 鸡蛋掉落|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/superEggDrop.js)|
 |884| 两句话中的不常见单词|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/uncommonFromSentences.js)|
