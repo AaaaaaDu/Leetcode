@@ -31,6 +31,7 @@
 |929| 独特的电子邮件地址|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numUniqueEmails.js)|
 |925| 长按键入|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isLongPressedName.js)|
 |922| 按奇偶排序数组 II|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortArrayByParityII.js)|
+|921| 使括号有效的最少添加 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/minAddToMakeValid.js)|
 |917| 仅仅反转字母 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/reverseOnlyLetters.js)|
 |914| 卡牌分组 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/hasGroupsSizeX.js)|
 |908| 最小差值 I|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/smallestRangeI.js)|
