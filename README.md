@@ -47,6 +47,7 @@
 |887| 鸡蛋掉落|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/superEggDrop.js)|
 |884| 两句话中的不常见单词|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/uncommonFromSentences.js)|
 |883| 三维形体投影面积|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/projectionArea.js)|
+|877| 石子游戏|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/stoneGame.js)|
 |876| 链表的中间结点|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/middleNode.js)|
 |874| 模拟行走机器人|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/robotSim.js)|
 |872| 叶子相似的树|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/leafSimilar.js)|
