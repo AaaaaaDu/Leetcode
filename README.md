@@ -344,7 +344,8 @@
 |101| 对称二叉树    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isSymmetric.js)|
 |100| 相同的树    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isSameTree.js)|
 |98| 验证二叉搜索树     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isValidBST.js)|
-|94| 二叉树的中序遍历     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isValidBST.js)|
+|96| 不同的二叉搜索树     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/numTrees.js)|
+|94| 二叉树的中序遍历     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/inorderTraversal.js)|
 |93| 复原IP地址     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/restoreIpAddresses.js)|
 |89| 格雷编码     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/grayCode.js)|
 |88| 合并两个有序数组     |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/merge.js)|
