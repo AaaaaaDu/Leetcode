@@ -13,6 +13,7 @@
 |993| 二叉树的堂兄弟节点|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/isCousins.js)|
 |989| 数组形式的整数加法|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/addToArrayForm.js)|
 |985| 查询后的偶数和|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sumEvenAfterQueries.js)|
+|983| 最低票价|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/mincostTickets.js)|
 |979| 在二叉树中分配硬币|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/distributeCoins.js)|
 |977| 有序数组的平方|[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/sortedSquares.js)|
 |976| 三角形的最大周长|[javascript](https://github.com/DcySc/Leetrocode/blob/master/algorithms/largestPerimeter.js)|
