@@ -388,6 +388,7 @@
 |35| 搜索插入位置    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/searchInsert.js)|
 |34| 在排序数组中查找元素的第一个和最后一个位置    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/searchRange.js)|
 |33| 搜索旋转排序数组    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/search.js)|
+|31| 下一个排列    |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/nextPermutation.js)|
 |29| 两数相除   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/divide.js)|
 |28| 实现strStr()   |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/strStr.js)|
 |27| 移除元素 |[javascript](https://github.com/DcySc/Leetcode/blob/master/algorithms/removeElement.js)|
